@@ -1,2 +1,4 @@
 
-`squid:S2094"BRemove this empty class, write its code or make it an "interface".(¤ŽŒÊ8®õÇ¹×,
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(âÊÿ8¯ œ¹×,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡ùå¾ùÿÿÿÿ8¯ œ¹×,
