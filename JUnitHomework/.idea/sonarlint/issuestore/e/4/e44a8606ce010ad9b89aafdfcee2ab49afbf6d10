@@ -1,0 +1,12 @@
+
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(³µöÕùÿÿÿÿ8ıµİ•Û,
+Isquid:S1481"&Remove this unused "b" local variable.(ñ˜µ¯ÿÿÿÿÿ8ıµİ•Û,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¹¦Ó8ò•ŒÅÛ,
+Xsquid:S1854"5Remove this useless assignment to local variable "c".(ˆ’é‡úÿÿÿÿ8Õæı•Û,
+Psquid:S1481"-Remove this unused "sentance" local variable.(¼€ƒÿÿÿÿÿ8ıµİ•Û,
+rsquid:UselessImportCheck"BRemove this unused import 'com.sun.corba.se.impl.orb.ParserTable'.(³µöÕùÿÿÿÿ8ıµİ•Û,
+Isquid:S1481"&Remove this unused "c" local variable.(ˆ’é‡úÿÿÿÿ8Õæı•Û,
+Csquid:S1481"&Remove this unused "d" local variable.(®ˆª#8î­ÿ•Û,
+Xsquid:S1854"5Remove this useless assignment to local variable "b".(ñ˜µ¯ÿÿÿÿÿ8ıµİ•Û,
+Rsquid:S1854"5Remove this useless assignment to local variable "d".(®ˆª#8î­ÿ•Û,

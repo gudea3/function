@@ -1,0 +1,5 @@
+
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ýµÝ•Û,
+:squid:S1643"Use a StringBuilder instead.(­âç„8ýµÝ•Û,
+?squid:S1643"Use a StringBuilder instead.(‰®ãºúÿÿÿÿ8ýµÝ•Û,
+ˆsquid:S1488"eImmediately return this expression instead of assigning it to the temporary variable "splitSentance".(…—¼Üøÿÿÿÿ8ýµÝ•Û,
