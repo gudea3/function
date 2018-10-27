@@ -1,0 +1,16 @@
+Order_No	Product	Price	Client_Name
+1110	Apple iPhone X	6000	Pop Maria
+1111	Apple iPhone 6	4000	Dascalu Ioan
+1112	Samsung P9	5800	Cojan Lehel
+1113	Samspung S6	3500	Barbu Andrei
+1114	Samsung A7	4300	Abrudan Joseph
+1115	Huawei Mate 10	5999	Muresan Claudiu
+1116	Apple iPhone 8	5000	Cojan Lehel
+1117	Samsung A7	4300	Farcas Silvia
+1118	Huawei Mate 10	5999	Muresan Claudiu
+1119	Huawei G8	2600	Farcas Silvia
+1120	Apple iPhone X	6000	Abrudan Joseph
+1121	Samsung P9	5800	Pop Maria
+1122	Samspung S6	3500	Muresan Claudiu
+1123	Apple iPhone X	6000	Farcas Silvia
+1124	Huawei Mate 10	5999	Abrudan Joseph
