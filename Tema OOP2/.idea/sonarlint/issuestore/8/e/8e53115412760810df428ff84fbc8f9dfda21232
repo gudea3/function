@@ -1,0 +1,15 @@
+
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Şóˆ8É•£¤Ù,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îªğã8Î€¥Ù,
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¶¾Â8É•£¤Ù,
+Ksquid:S1125"(Remove the literal "true" boolean value.(ãŠ”µúÿÿÿÿ8Î€¥Ù,
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(šÎÎ±8Î€¥Ù,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¬Çîƒşÿÿÿÿ8É•£¤Ù,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(çËÏ¡8É•£¤Ù,
+osquid:S1192'"LDefine a constant instead of duplicating this literal "The device " 3 times.(¬Çîƒşÿÿÿÿ8ç¸¥Ù,
